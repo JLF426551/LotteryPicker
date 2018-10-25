@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lottery Picker</string>
+
+    <string name="game_pb">Power Ball</string>
+    <string name="game_mm">Mega Millions</string>
+    <string name="game_lt">Lotto Texas</string>
+    <string name="game_tt">Texas Two Step</string>
+    <string name="game_aon">All Or Nothing</string>
+    <string name="game_pt">Pick Three</string>
+    <string name="game_df">Daily Four</string>
+    <string name="game_cf">Cash Five</string>
+
+</resources>
